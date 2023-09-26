@@ -3,8 +3,8 @@
 const Sequelize = require("sequelize");
 
 const database = "todo_db";
-const username = "postgres";
-const password = "suyash8788";
+const username = "astar";
+const password = "lucky2002";
 const sequelize = new Sequelize(database, username, password, {
   host: "localhost",
   dialect: "postgres",
